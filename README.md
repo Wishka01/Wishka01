@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">I'm a Full Stack Developer from Argentina 🇦🇷.<br><br>I graduated as a Computer Technician from Crucero Gral. Belgrano High School.<br>I love building scalable web apps, focusing on clean code, performance, and a great user experience. Always learning and improving.</p>
+<p align="left">I'm a Full Stack Developer from Argentina 🇦🇷.<br></p>
 
 ###
 
