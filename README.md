@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left">I have worked for 2 years in the construction of different projects at INDEPI.<br>Some of my works here were:</p>
+<p align="left">I have worked for 5 years in the construction of different projects.<br>Some of my works here were:</p>
 
 - [INDEPI website](https://indepisistemas.com.ar/)
 - [Tomaestados](https://indepisistemas.com.ar/site/#servicios)
